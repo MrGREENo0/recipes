@@ -1,0 +1,11 @@
+Ingredients:
+ - 1 x pizza base
+ - Chedder
+ - Pineapple
+ - Bacon
+ - Mushrooms
+
+Directions:
+  1. Preheat oven at 280
+  2. adde ingridients on base
+  3. Put in oven for 15-20 minutes
